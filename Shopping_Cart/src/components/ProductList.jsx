@@ -6,9 +6,9 @@ import productImage2 from '../assets/product-placeholder2.jpg';
 import productImage3 from '../assets/product-placeholder3.jpg'; 
 
 const products = [
-  { id: 1, name: 'Product 1', image: productImage1 },
-  { id: 2, name: 'Product 2', image: productImage2 },
-  { id: 3, name: 'Product 3', image: productImage3 },
+  { id: 1, name: 'Watch', image: productImage1 },
+  { id: 2, name: 'Hand Bags', image: productImage2 },
+  { id: 3, name: 'Bag pack', image: productImage3 },
 ];
 
 const ProductList = () => {
